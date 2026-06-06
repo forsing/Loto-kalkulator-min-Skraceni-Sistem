@@ -22,7 +22,7 @@ print()
 print()
 print('_______LOTO skraceni sistemi_______')
 print()
-print('LotoSS.py              ver 1.130812')
+print('LotoSS.py              ver 2.070626')
 print()
 print('minimalni broj kombinacija skracenog sistema')
 print('i punog sistema')
@@ -96,7 +96,7 @@ print()
 
 _______LOTO skraceni sistemi_______
 
-LotoSS.py              ver 1.130812
+LotoSS.py              ver 2.070626
 
 minimalni broj kombinacija skracenog sistema
 i punog sistema
@@ -152,7 +152,7 @@ ENTER for EXIT
 
 _______LOTO skraceni sistemi_______
 
-LotoSS.py              ver 1.130812
+LotoSS.py              ver 2.070626
 
 minimalni broj kombinacija skracenog sistema
 i punog sistema
@@ -208,7 +208,7 @@ ENTER for EXIT
 
 _______LOTO skraceni sistemi_______
 
-LotoSS.py              ver 1.130812
+LotoSS.py              ver 2.070626
 
 minimalni broj kombinacija skracenog sistema
 i punog sistema
@@ -337,5 +337,5 @@ Teorijski minimum / donja granicu broja kombinacija skraćenog sistema kroz hipe
 Primer punog sistema (39,7,7,7) daje 1/h = 15,380,937, što je tačno C(39,7).
 Za (13,7,7,5) formula daje oko 5.45 (donja granica → 6 kao apsolutni pod), dok moj sistem ima 10 kombinacija.
 LotoSS.py je ispravan kao kalkulator teorijskog minimuma, ali nije generator skraćenih sistema. 
-Ozbiljan korak bi bio poseban kod koji generiše i proverava skracenesisteme (i njihove vezane dobitke).
+Ozbiljan korak bi bio poseban kod koji generiše i proverava skracene sisteme (i njihove vezane dobitke).
 """
